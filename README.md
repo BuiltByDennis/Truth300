@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Agent Assistant**
 
-- 👨‍💻 All of my projects are available at [www.dennisme.xyz](www.dennisme.xyz)
+- 👨‍💻 All of my projects are available at www.dennisme.xyz
 
 - 📫 How to reach me **dennyaaba@gmail.com**
 
